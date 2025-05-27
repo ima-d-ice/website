@@ -460,5 +460,11 @@ export default [
         summary: "Want to find information about a seiyuu or find out who voiced an anime character? Seiyuupedia is here to help you.",
         imageUrl: "https://i.ibb.co/tPWJM3DX/seiyuupedia-og-image.png",
         url: "https://nhhseiyuupedia.netlify.app"
-    }
+    },
+    {
+        title: "SenpaiTrackr",
+        summary: "A tool to track and explore anime using the Jikan API.",
+        imageUrl:"https://ima-d-ice.github.io/senpaitrackr/assets/cover.png" ,
+        url: "https://ima-d-ice.github.io/senpaitrackr/#/"
+},
 ]
